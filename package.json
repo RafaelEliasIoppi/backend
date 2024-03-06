@@ -1,5 +1,5 @@
 {
-	"author": "Rafael Elias Ioppi"
+	"author": "Rafael Elias Ioppi",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
