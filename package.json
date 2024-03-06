@@ -1,6 +1,7 @@
 {
-	"author": "Rafael Elias Ioppi",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "freeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
